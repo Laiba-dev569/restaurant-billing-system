@@ -1,1 +1,1 @@
-# restaurant-billing-system
+# hotel menu billing system project
